@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutoshumar
-- 👀 I’m interested in Android Aws and cyber security
-- 🌱 I’m currently learning Aws
-- 💞️ I’m looking to collaborate on Android app develpoment
+- 👀 I’m interested in Blockchain and web development
+- 🌱 I’m currently learning Blochchain
+- 💞️ I’m looking to collaborate Blockchain develpoment
 - 📫 How to reach me viraj28300@gmail.com
 
 <!---
