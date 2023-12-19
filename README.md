@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashutoshumar
 - 👀 I’m interested in Blockchain and web development
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate Blockchain develpoment
+- 💞️ I’m looking for collaboration in the web3 domain
 - 📫 How to reach me viraj28300@gmail.com
 
 <!---
